@@ -1,0 +1,11 @@
+1. Create a python environment and enter into python environment.
+
+2.download required libraries.
+
+3. run train.py
+
+4.then, run app.py
+
+5.after the running of app.py . you will get local host url.
+
+6.copy url and paste it on your browser to check the voice is real or fake.
